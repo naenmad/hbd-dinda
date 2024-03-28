@@ -1,11 +1,11 @@
 {
-  "greeting": "Hallo",
-  "name": "Adinda Nazwa",
+  "greeting": "hallo",
+  "name": "sayang",
   "greetingText": "Aku sayang banget sama kamu!",
-  "wishText": "jadi ada apa sih ini sebenernya?! ;)",
+  "wishText": "selamat 19 pacarnya akuu! ;)",
   "imagePath": "img/dinda.jpg",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Selamat ulang tahun sayang. semoga sehat selalu, dilimpahkan rezekinya, senantiasa mendapat kebahagiaan dan makin sayang sama aku ...",
+  "textInChatBox": "Selamat ulang tahun sayang. semoga sehat selalu, dilimpahkan rezekinya, senantiasa mendapat kebahagiaan dan makin sayang sama aku...",
   "sendButtonLabel": "Send",
   "text2": "tadinya aku mau ngechat ke kamu gitu.",
   "text3": "tapi gajadi.",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "ja",
   "bigTextPart2": "di",
-  "wishHeading": "selamat Ulang tahun cintaku!",
+  "wishHeading": "adinda nazwa",
   "outroText": "okay, kasih tau aku misal kamu suka sama ini.",
-  "replayText": "atau pencet kalo kamu mau ulang.",
+  "replayText": "pencet disini kalo kamu mau ulang.",
   "outroSmiley": ":)"
 }
